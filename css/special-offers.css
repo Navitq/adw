@@ -1,0 +1,58 @@
+.special-offers {
+	margin-top: 150px;
+	height: 464px;
+	width: 1440px;
+
+	
+}
+
+.special-offers__title {
+	padding-top: 29px;
+	padding-bottom: 39px;
+	text-align: center;
+}
+
+.special-offers__text {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 34px;
+line-height: 41px;
+letter-spacing: 0.15em;
+color: #00084B;
+}
+
+.home-cards{
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+
+.home-cards__card {
+	
+	
+	height: 127px;
+	display: flex;
+	flex-wrap: wrap;
+	flex: 1 1 auto;
+}
+
+
+.home-cards__card-info{
+	
+
+}
+
+
+
+
+
+.home-cards__timestamp {
+	position: relative;
+}
+
+.home-cards__status {
+	position: absolute;
+	right: 0px;
+}
+

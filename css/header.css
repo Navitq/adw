@@ -1,0 +1,73 @@
+* {
+	
+	box-sizing: border-box;
+	
+}
+ 
+body{
+	margin: 0px auto;
+	max-width: 1920px;
+	background-color: #F5F5F5;
+}
+
+.header {
+	background-color: rgba(246, 242, 255, 0.8);
+}
+
+.header__company-info {
+	display: flex;
+	height: 125px;
+}
+
+.header__logo {
+	margin-left: 99px;
+	margin-top: 14px;
+}
+
+.header__contact-us {
+	margin-top: 45px;
+	margin-left: 197px;
+	margin-bottom: 30px;
+}
+
+
+
+.header__menu{
+	max-height: 81px;
+	margin-left: auto;
+	text-align: center;
+
+}
+
+.header__link{
+	font-family: 'Montserrat';
+	margin-right: 37px;
+	margin-left: 37px;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 32px;
+	line-height: 39px;
+	color: #5D93FF;
+	text-decoration: none;
+	vertical-align: middle;
+}
+
+
+
+.header__vertical-line {
+	vertical-align: middle;
+	margin-right: 3px;
+	margin-left: 3px;
+}
+
+
+
+
+
+
+
+.copywriting {
+	height: 67px;
+	text-align: center;
+}
+
